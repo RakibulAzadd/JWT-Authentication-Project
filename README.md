@@ -1,1 +1,1 @@
-# JWR-Authentication-Project
+# JWT-Authentication-Project
