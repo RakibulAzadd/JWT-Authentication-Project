@@ -1,4 +1,4 @@
-JWT Authentication Project with Golang
+## JWT Authentication Project with Golang
 
 This is a secure JWT-based authentication backend built with Golang, providing RESTful APIs for user signup and login. It features password hashing, token management, and modular design for easy integration. This README includes setup instructions, API endpoints, and Swagger documentation.
 
